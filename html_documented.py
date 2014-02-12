@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 '''Script to see, from a json input file
-if some attributes are documented in MDN'''
+if some attributes are documented in MDN
+Return attributes that were *not* documented !'''
 
 from sys import argv
 from json import load, dumps
