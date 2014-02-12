@@ -1,0 +1,14 @@
+[
+	{
+	"element": "img",
+	"attributes": [ "src", "alt", "stuff" ]
+	},
+	{
+	"element": "audio",
+	"attributes": [ "stuff" ]
+	},
+	{
+	"element": "stuff",
+	"attributes": [ "stuff" ]
+	}
+]
